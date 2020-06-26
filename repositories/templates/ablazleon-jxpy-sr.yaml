@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ablazleon
+    provider: github
+    repository: jxpy
+  name: ablazleon-jxpy
+spec:
+  description: Imported application for ablazleon/jxpy
+  httpCloneURL: https://github.com/ablazleon/jxpy.git
+  org: ablazleon
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: jxpy
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ablazleon/jxpy.git

@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: ablazleon
+  repo: jxpy
+  url: https://github.com/ablazleon/jxpy.git
+  version: ""
+  versionURL: ""
